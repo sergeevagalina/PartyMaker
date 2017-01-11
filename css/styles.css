@@ -1,0 +1,8 @@
+.navbar-brand .glyphicon {
+	top: 3px;
+	left: 5px;
+	color: black;
+}
+.navbar-nav>li>a {
+	text-align: center;
+}
